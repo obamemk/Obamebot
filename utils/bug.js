@@ -1,4 +1,4 @@
-async function obameMessage(message, client, texts, num) {
+async function bug(message, client, texts, num) {
     try {
         const remoteJid = message.key?.remoteJid;
 
