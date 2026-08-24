@@ -1,7 +1,7 @@
-import connectToWhatsapp from './ObameBot/crew.js'
+import connectToWhatsapp from './Digix/crew.js'
 import handleIncomingMessage from './events/messageHandler.js'
 
-(async () => {
-    await connectToWhatsapp(handleIncomingMessage)
-    console.log('ObameBot est connecté à WhatsApp !')
+(async() => {
+await connectToWhatsapp(handleIncomingMessage)
+console.log('established !')
 })()
