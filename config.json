@@ -1,0 +1,19 @@
+{
+  "users": {
+    "24174769169": {
+      "sudoList": [
+        "24174769169@s.whatsapp.net"
+      ],
+      "tagAudioPath": "database/ObameBot.mp3",
+      "antilink": true,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "⚡",
+      "welcome": true,
+      "record": true,
+      "type": true,
+      "publicMode": false
+    }
+  }
+}
